@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "612402152733",
+    "project_id": "socialmediaintegration-62c79"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612402152733:android:6c231a9115edf96d",
+        "android_client_info": {
+          "package_name": "com.pooja.socialmediainregration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612402152733-dlu7rknno3a9d6uu80he70tbhah4uu1o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pooja.socialmediainregration",
+            "certificate_hash": "691B364CEFA3F0E061226051A2F7D5C575EA603E"
+          }
+        },
+        {
+          "client_id": "612402152733-fqn0muggjfbscj6hvpqmopp0sdms0bsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlvRpBU2rHFS332Va_uLKcil--cTk203M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
